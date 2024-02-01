@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI to the Rescue</title>
+</head>
+<body>
+    <header>
+        <h1>AI to the Rescue</h1>
+        <p>Welcome to our project dedicated to leveraging AI for positive impact!</p>
+    </header>
+    
+    <section>
+        <h2>Project Overview</h2>
+        <p>Our mission is to use AI to address real-world challenges in various domains, making a positive impact on society.</p>
+    </section>
+    
+    <!-- Add more sections as needed -->
+
+    <footer>
+        <p>Contact us at your-email@example.com</p>
+    </footer>
+</body>
+</html>
